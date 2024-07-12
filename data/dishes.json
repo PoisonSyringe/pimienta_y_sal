@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Carpaccio fresco",
+        "descripcion": "Entrada Carpaccio de salmón con cítricos",
+        "precio": 65.50,
+        "imagen": "/images/Carpaccio-de-salmon.jpg",
+        "descripcion_detallada": "Delicadas lonjas de salmón fresco, marinado con una mezcla de jugo de limón y naranja, acompañado de finas hierbas y alcaparras, ofreciendo un balance perfecto entre acidez y frescura."
+    },
+    {
+        "nombre": "Risotto de berenjena",
+        "descripcion": "Risotto de berenjena y queso de cabra",
+        "precio": 47.00,
+        "imagen": "/images/Risotto-berenjena-queso-cabra.jpg",
+        "descripcion_detallada": "Cremoso risotto elaborado con arroz Arborio, suavemente cocido en caldo de verduras y vino blanco, enriquecido con trozos de berenjena asada y queso de cabra desmenuzado, ofreciendo una experiencia suave y sabrosa."
+    },
+    {
+        "nombre": "Mousse de arroz",
+        "descripcion": "Mousse de arroz con leche y aroma de azahar",
+        "precio": 27.50,
+        "imagen": "/images/Mousse-de-arroz-con-leche.jpg",
+        "descripcion_detallada": "Postre delicado y esponjoso hecho de arroz con leche, perfumado con esencia de flor de azahar, que ofrece una textura ligera y un sabor sutilmente dulce, ideal para culminar una comida."
+    },
+    {
+        "nombre": "Espárragos blancos",
+        "descripcion": "Espárragos blancos con vinagreta de verduras y jamón ibérico",
+        "precio": 37.50,
+        "imagen": "/images/esparragos.png",
+        "descripcion_detallada": "Espárragos blancos tiernos servidos con una vinagreta de verduras finamente picadas y cubiertos con láminas de jamón ibérico, creando una combinación perfecta de sabores y texturas."
+    }
+]
